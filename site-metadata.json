@@ -1,7 +1,7 @@
 {
     "description": "Medium inspired blogging theme for Stackbit",
     "layout_style": "grid",
-    "palette": "green",
+    "palette": "red",
     "header": {
         "title": "CAPITAL E ESTADO",
         "logo_img": "images/friendly-oak.png",
